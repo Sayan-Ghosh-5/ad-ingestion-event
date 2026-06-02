@@ -1,0 +1,5 @@
+bin/
+/server
+*.out
+.env
+.DS_Store

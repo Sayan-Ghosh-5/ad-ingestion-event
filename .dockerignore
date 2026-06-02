@@ -1,0 +1,6 @@
+bin/
+.git/
+*.md
+loadtest/
+docs/
+.github/
